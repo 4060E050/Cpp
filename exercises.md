@@ -48,7 +48,7 @@ numbers_squared[i]=numbers[i]*numbers[i];
 
 
 ```
-
+![result](PIC/EX1.png)
 
 
 ###### exercise2:程式閱讀題
