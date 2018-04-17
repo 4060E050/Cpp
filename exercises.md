@@ -61,10 +61,10 @@ int main(void)
 {
     int i,f[5],x,ans=0;
     for(i=0;i<5;i++) {
-      cout<<"請輸入方程式中"<< i <<" 次項的係數";
+      cout<<"請輸入一元多次方程式中"<< i <<" 次項的係數";
       cin>>f[i];
     }
-    cout<<"請輸入欲計算的變數值";
+    cout<<"請輸入欲計算的變數值f(X)";
     cin>>x;
     for(i=0;i<5;i++) {
       ans = ans + S(x,i) * f[i];
@@ -80,6 +80,7 @@ int S(int x,int n)
       x = x*tmp;
     return x;  
 }
+
 
 ```
 # exercise3:矩陣相加與矩陣相乘
