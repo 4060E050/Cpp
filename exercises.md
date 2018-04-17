@@ -83,6 +83,7 @@ int S(int x,int n)
 
 
 ```
+![result](image/EX2.PNG)
 # exercise3:矩陣相加與矩陣相乘
 
 關鍵程式技術:自動產生元素的矩陣
