@@ -1,5 +1,5 @@
 
-###### exercise1:陣列存取與基本運算
+# exercise1:陣列存取與基本運算
 ```
 把一個陣列元素全部都平方存到另一個陣列
 把一個陣列元素全部都反轉存到另一個陣列
@@ -51,7 +51,7 @@ numbers_squared[i]=numbers[i]*numbers[i];
 ![result](image/EX1.PNG)
 
 
-###### exercise2:程式閱讀題
+# exercise2:程式閱讀題
 
 ```
 #include <iostream>
@@ -82,7 +82,11 @@ int S(int x,int n)
 }
 
 ```
-###### exercise1
+# exercise3:矩陣相加與矩陣相乘
+
+關鍵程式技術:自動產生元素的矩陣
+
+關鍵程式技術:矩陣相乘
 
 ```
 
