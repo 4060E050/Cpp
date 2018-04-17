@@ -51,7 +51,7 @@ numbers_squared[i]=numbers[i]*numbers[i];
 
 
 
-###### exercise1
+###### exercise2:程式閱讀題
 
 ```
 
